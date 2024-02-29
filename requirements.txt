@@ -1,0 +1,15 @@
+asgiref
+Django
+django-cors-headers
+django-dotenv
+django-environ
+gunicorn
+packaging
+Pillow
+psycopg2
+psycopg2-binary
+python-env
+pytz
+sqlparse
+whitenoise
+tzdata
